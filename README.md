@@ -2,7 +2,7 @@
 
 <h4>About Me</h4>
 <ul>
-  <li>👨‍🎓 I'm studying Information Technology at IMD - UFRN.</li>
+  <li>👨‍🎓 I'm studying Computer Science at DIMAp - UFRN.</li>
   <li>🕹 My areas of anterest are Game Development and Web Development</li>
   <li>😏 My hobbies re programming, physical activities and games</li>
 </ul>
